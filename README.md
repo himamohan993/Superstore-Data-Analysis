@@ -9,6 +9,7 @@ This project focuses on analyzing Superstore sales data using Python to extract 
 
 The analysis is done using a Jupyter Notebook and includes data cleaning, exploration, visualization, and insight generation.
 
+
 🎯 Objectives
 
 * Understand overall sales and profit trends
@@ -33,3 +34,22 @@ The analysis is done using a Jupyter Notebook and includes data cleaning, explor
 * NumPy – Numerical analysis
 
 * Matplotlib & Seaborn – Data visualization
+
+
+📂 Dataset Information
+
+Dataset: Superstore Sales Dataset
+
+Data includes:
+
+   * Order details
+
+   * Customer information
+
+   * Product categories
+
+   * Sales, profit, quantity, discount
+
+   * Region and shipping details
+
+(Source: Public dataset from online data repositories)
