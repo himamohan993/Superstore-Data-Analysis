@@ -20,3 +20,16 @@ The analysis is done using a Jupyter Notebook and includes data cleaning, explor
 * Study customer segments and order patterns
 
 * Create visualizations to support insights
+
+
+🛠 Tools & Technologies Used
+
+* Google Colab – Cloud-based analysis environment
+
+* Python – Programming language
+
+* Pandas – Data cleaning and Manipulation
+
+* NumPy – Numerical analysis
+
+* Matplotlib & Seaborn – Data visualization
