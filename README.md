@@ -53,3 +53,26 @@ Data includes:
    * Region and shipping details
 
 (Source: Public dataset from online data repositories)
+
+
+🔍 Project Workflow
+
+1. Data Loading
+
+2. Data Understanding & Inspection
+
+3. Data Cleaning
+
+   * Handling missing values
+
+   * Removing duplicates
+ 
+   * Data type corrections
+
+4. Exploratory Data Analysis (EDA)
+
+5. Data Visualization
+
+6. Insight Generation
+
+7. Conclusion & Business Recommendations
