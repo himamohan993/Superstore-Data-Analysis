@@ -76,3 +76,18 @@ Data includes:
 6. Insight Generation
 
 7. Conclusion & Business Recommendations
+
+
+ 📈 Key Analysis Performed
+
+* Sales and profit trend analysis
+
+* Category-wise and sub-category-wise performance
+
+* Region-wise sales comparison
+
+* Customer segment analysis
+
+* Discount vs profit relationship
+
+* Top 10 products by sales and profit
