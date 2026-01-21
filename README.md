@@ -91,3 +91,14 @@ Data includes:
 * Discount vs profit relationship
 
 * Top 10 products by sales and profit
+
+
+✅ Results & Insights
+
+* Identified high-profit and low-profit categories
+
+* Found regions contributing most to sales
+
+* Observed impact of discounts on profit
+
+* Discovered customer segments generating maximum revenue
